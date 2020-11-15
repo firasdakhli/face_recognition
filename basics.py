@@ -1,0 +1,1 @@
+# PS C:\Users\dell\Desktop\stage\stage_ing\myproject\face_opencv> .\Scripts\activate
